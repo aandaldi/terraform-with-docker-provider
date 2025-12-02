@@ -1,6 +1,3 @@
-export DOCKER_HOST="unix:///Users/aanaldianarusmanangsang/.local/share/containers/podman/machine/podman.sock"
-
-
 Weekend ini menyempatkan diri mencoba explore terraform. sudah lama dengar dan hanya tau konsep umumnnya.
 coba pelajari dari basic. jadi simplenya Terraform ini dipakai buat manage infrastruktur aplikasi kita dalam bentuk code. 
 banyak sekali keuntungan yang bisa di dapatkan dari penggunaaan tools ini salah duanya adalah mengurangi konfigurasi manual dan efesiensi waktu ketika ingin melakukan perubahan ataupun pembuatan arsitektur baru yang serupa.
@@ -12,3 +9,8 @@ ada beberapa key yang bisa di higligh dari pembelajaran ini:
 3. Flexibility (Variables and Outputs).
 4. Scaling (Modules and Count).
 
+
+note 
+```
+export DOCKER_HOST="unix:///Users/aanaldianarusmanangsang/.local/share/containers/podman/machine/podman.sock"
+```
